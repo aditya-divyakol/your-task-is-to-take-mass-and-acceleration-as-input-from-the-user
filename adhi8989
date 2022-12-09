@@ -1,0 +1,4 @@
+m=eval(input())
+a=eval(input())
+force = lambda m,a:m*a
+print('%.2f'%force(m,a))
